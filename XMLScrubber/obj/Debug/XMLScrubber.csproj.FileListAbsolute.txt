@@ -1,0 +1,56 @@
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe.config
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.pdb
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.dll
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.dll
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\System.Windows.Interactivity.dll
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.xml
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.xml
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.csprojResolveAssemblyReference.cache
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.baml
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\App.baml
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.g.cs
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\App.g.cs
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber_MarkupCompile.cache
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.g.resources
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.Properties.Resources.resources
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.csproj.GenerateResource.Cache
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.exe
+F:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.pdb
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe.config
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.pdb
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.dll
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.dll
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\System.Windows.Interactivity.dll
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.xml
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.xml
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.baml
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\App.baml
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.g.cs
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\App.g.cs
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber_MarkupCompile.cache
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.g.resources
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.Properties.Resources.resources
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.csproj.GenerateResource.Cache
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.exe
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.pdb
+I:\My Projects\XMLScrubber\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.csprojResolveAssemblyReference.cache
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe.config
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.exe
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\XMLScrubber.pdb
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.dll
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.dll
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\System.Windows.Interactivity.dll
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\ICSharpCode.AvalonEdit.xml
+Z:\CSharp\XMLScrubber\XMLScrubber\bin\Debug\MahApps.Metro.xml
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.baml
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\App.baml
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\MainWindow.g.cs
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\App.g.cs
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber_MarkupCompile.cache
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.g.resources
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.Properties.Resources.resources
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.csproj.GenerateResource.Cache
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.exe
+Z:\CSharp\XMLScrubber\XMLScrubber\obj\Debug\XMLScrubber.pdb

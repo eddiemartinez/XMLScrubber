@@ -1,0 +1,3 @@
+PM> Install-Package AvalonEdit
+
+PM> Install-Package MahApps.Metro -Version 1.1.2
